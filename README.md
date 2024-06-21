@@ -43,3 +43,14 @@ Please cite Swarms in your paper or your project if you found it beneficial in a
       primaryClass={id='cs.AI' full_name='Artificial Intelligence' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas. In particular, includes Expert Systems, Theorem Proving (although this may overlap with Logic in Computer Science), Knowledge Representation, Planning, and Uncertainty in AI. Roughly includes material in ACM Subject Classes I.2.0, I.2.1, I.2.3, I.2.4, I.2.8, and I.2.11.'}
 }
 ```
+
+
+```bibtex
+@inproceedings{massively-multimodal,
+title = {4M: Massively Multimodal Masked Modeling},
+booktitle = {NeurIPS},
+author = {David Mizrahi* and Roman Bachmann* and Oguzhan Fatih Kar and Teresa Yeo and Mingfei Gao and Afshin Dehghan and Amir Zamir},
+year = {2023},
+URL = {https://openreview.net/forum?id=TegmlsD8oQ}
+}
+```
