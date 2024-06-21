@@ -54,3 +54,14 @@ year = {2023},
 URL = {https://openreview.net/forum?id=TegmlsD8oQ}
 }
 ```
+
+```bibtex
+@misc{chen2023vast,
+      title={VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset}, 
+      author={Sihan Chen and Handong Li and Qunbo Wang and Zijia Zhao and Mingzhen Sun and Xinxin Zhu and Jing Liu},
+      year={2023},
+      eprint={2305.18500},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
