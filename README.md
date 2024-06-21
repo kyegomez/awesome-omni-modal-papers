@@ -76,3 +76,13 @@ URL = {https://openreview.net/forum?id=TegmlsD8oQ}
       primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
 }
 ```
+```bibtex
+@misc{tang2023anytoany,
+      title={Any-to-Any Generation via Composable Diffusion}, 
+      author={Zineng Tang and Ziyi Yang and Chenguang Zhu and Michael Zeng and Mohit Bansal},
+      year={2023},
+      eprint={2305.11846},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
