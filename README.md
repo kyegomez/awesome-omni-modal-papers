@@ -1,13 +1,7 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
 # awesome-omni-modal-papers
-An awesome list of omni-modality LLM models that can perceive and generate images, videos, audios, and more all at once
-
-
-
-# License
-MIT
-
+An awesome list of omni-modality models that can understand multiple modalities and or output multiple modalities. 
 
 # Citation
 Please cite Swarms in your paper or your project if you found it beneficial in any way! Appreciate you.
