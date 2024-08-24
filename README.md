@@ -3,6 +3,12 @@
 # awesome-omni-modal-papers
 An awesome list of omni-modality models that can understand multiple modalities and or output multiple modalities. 
 
+
+- [SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION](https://arxiv.org/pdf/2408.12528)
+
+- 
+
+
 # Citation
 Please cite Swarms in your paper or your project if you found it beneficial in any way! Appreciate you.
 
