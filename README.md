@@ -13,7 +13,7 @@ An awesome list of omni-modality models that can understand multiple modalities 
 
 ## 2024
 
-- [SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION](https://arxiv.org/pdf/2408.12528)[Code](https://github.com/showlab/Show-o)
+- [SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION](https://arxiv.org/pdf/2408.12528)[Code](https://github.com/showlab/Show-o) [Github](https://github.com/showlab/Show-o)
 
 
 # Citation
